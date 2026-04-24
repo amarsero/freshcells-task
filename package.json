@@ -1,0 +1,53 @@
+{
+  "name": "freshcells-task",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@apollo/client": "^4.1.7",
+    "graphql": "^16.13.2",
+    "i18next": "^26.0.6",
+    "normalize.css": "^8.0.1",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-error-boundary": "^6.1.1",
+    "react-i18next": "^17.0.4",
+    "react-router": "^7.14.2",
+    "rxjs": "^7.8.2",
+    "sakura.css": "^1.5.1"
+  },
+  "devDependencies": {
+    "@0no-co/graphqlsp": "^1.15.4",
+    "@babel/core": "^7.29.0",
+    "@eslint/js": "^9.39.4",
+    "@rolldown/plugin-babel": "^0.2.3",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/babel__core": "^7.20.5",
+    "@types/node": "^24.12.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.5.0",
+    "jsdom": "^29.0.2",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8.58.2",
+    "vite": "^8.0.9",
+    "vite-plugin-eslint2": "^5.1.0",
+    "vite-plugin-graphql-codegen": "^3.9.0",
+    "vitest": "^4.1.5"
+  }
+}

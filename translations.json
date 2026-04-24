@@ -1,0 +1,44 @@
+{
+	"en": {
+		"translation": {
+			"Sign in": "Sign in",
+			"Email": "Email",
+			"Password": "Password",
+			"Incorrect email or password": "Incorrect email or password",
+			"The service is currently unavailable. Please try again later.": "The service is currently unavailable. Please try again later.",
+			"There was an error loading the page. Please try again later.": "There was an error loading the page. Please try again later.",
+			"You must enter an email and password": "You must enter an email and password",
+			"Account Info": "Account Info",
+			"You must enter a valid email": "You must enter a valid email",
+			"User name": "User name",
+			"First name": "First name",
+			"Last name": "Last name",
+			"From Agustín Marsero to Freshcells": "From Agustín Marsero to Freshcells",
+			"Sing out": "Sing out",
+			"An unknown error occurred. Please reload the webpage.": "An unknown error occurred. Please reload the webpage.",
+			"Refresh": "Refresh",
+			"Error": "Error"
+		}
+	},
+	"es": {
+		"translation": {
+			"Sign in": "Iniciar sesión",
+			"Email": "Correo electrónico",
+			"Password": "Contraseña",
+			"Incorrect email or password": "Email o contraseña incorrectos",
+			"The service is currently unavailable. Please try again later.": "El servicio no está disponible actualmente. Por favor reintente luego nuevamente.",
+			"There was an error loading the page. Please try again later.": "Ocurrió un error cargando la página. Por favor reintente luego nuevamente.",
+			"You must enter an email and password": "Debe ingresar un correo electrónico y contraseña",
+			"Account Info": "Información de cuenta",
+			"You must enter a valid email": "Debe ingresar un correo eletronico válido",
+			"User name": "Nombre de usuario",
+			"First name": "Nombre",
+			"Last name": "Apellido",
+			"From Agustín Marsero to Freshcells": "De Agustín Marsero para Freshcells",
+			"Sing out": "Cerrar sesión",
+			"An unknown error occurred. Please reload the webpage.": "Ocurrió un error con la página. Por favor refresque el navegador.",
+			"Refresh": "Refrescar",
+			"Error": "Error"
+		}
+	}
+}
